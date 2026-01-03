@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: whitesmoke;
+    color: brown;
+      
+}
+.header{
+    background-color: cyan;
+    color: coral;
+    text-align: center;
+    padding: 40px;
+}
+section{
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+h2{
+    color: blue;
+}
+.skills ul{
+    list-style: none;
+    padding: 0;
+
+}
+.skill il{
+    background-color: bisque;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 7px;
+}
+.footer{
+    text-align: center;
+    background-color: aquamarine
+    color green;
+    padding: 20;
+}
